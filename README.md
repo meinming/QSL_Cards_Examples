@@ -14,6 +14,18 @@
 
 文档为PSD文件，**源文件禁止商业用途，翻版后请著名本项目和链接。**
 
+
+
+表格部分为ODS表格转为PDF后导入PS里的，ODS文件已经附加在资产中。
+
+同步更新于： 
+
+- GitHub：https://github.com/meinming/QSL_Cards_Examples
+
+- Bilibili：https://www.bilibili.com/video/BV1gu4m1w7Eb/
+
+- 我的博客：https://meinming.github.io/posts/25db9075/
+
 ## 成果展示
 
 ![](https://img-cdn1.akass.cn/gift/41/2024/02/65dea178431df.png)
@@ -55,5 +67,3 @@
 - Back中的插图
   
   角色是来自《凉宫春日》系列的SOS团长**涼宮 ハルヒ**，画师不详。
-
-
